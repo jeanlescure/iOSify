@@ -19,7 +19,9 @@ Details on how to install these packages can be found here:
 
 Once you have NodeJS and Grunt installed, navigate to the root of this package and run from your terminal:
 
-`$ npm install`
+```
+$ npm install
+```
 
 You should see details of the dependencies being installed.
 
@@ -41,7 +43,9 @@ to read
 
 Then, simply navigate to the root folder of this package and run the following command:
 
-`$ grunt`
+```
+$ grunt
+```
 
 Yes, it's that easy! Now you will find the generated `OrganicBananaGame.h` and `OrganicBananaGame.m` files inside the `dist` folder.
 
