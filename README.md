@@ -1,4 +1,4 @@
-# iOSify - HTML/CSS/Javascript to Objective C
+# iOSify - HTML/CSS/JS to Objective C
 
 This is a boilerplate which offers a way to develop an HTML 5 app and later package it in such a way that it is usable in iOS using the `WKWebView` Objective C view controller.
 
